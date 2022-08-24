@@ -20,7 +20,9 @@ class Solution:
             dict[letter] -= 1
             
         return True
-          
+         #time complexity O(n)
+        #space complexity O(k)- in the worse case k will be 26 which can be considered constant.
+        
 #         note_dict= {}
 #         mag_dict= {}
 #         for r_char in ransomNote:
@@ -42,6 +44,7 @@ class Solution:
 #                 return False
 #         return True
           
+ 
 
        
      
