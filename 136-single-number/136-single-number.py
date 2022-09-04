@@ -8,6 +8,10 @@ class Solution:
         for count in sequence:
             if sequence[count] == 1:
                 return count
+            
+            
+       
+            
           
            
         
